@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📓Estudando Análise e Desenvolvimento de Sistemasna Estácio.<br>💻Participando do Bootcamp Full-Stack JavaScript da Generation Brasil<br>Aprofundando meus estudos em JavaScript, TypeScript, React, Node.js, NestJS, HTML, CSS, POO e Lógica de Programação.<br>🗃️Em transição do setor de engenharia civil e vendas para tecnologia, trazendo comigo organização, visão de processos, resolução de problemas, disciplina e foco.</p>
+<p align="left">🎓Estudando Análise e Desenvolvimento de Sistemasna Estácio.<br>💻Participando do Bootcamp Full-Stack JavaScript da Generation Brasil<br>Aprofundando meus estudos em JavaScript, TypeScript, React, Node.js, NestJS, HTML, CSS, POO e Lógica de Programação.<br>🗃️Em transição do setor de engenharia civil e vendas para tecnologia, trazendo comigo organização, visão de processos, resolução de problemas, disciplina e foco.</p>
 
 ###
 
