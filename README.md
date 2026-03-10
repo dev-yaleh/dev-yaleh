@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D16AQHgt_nLqvQygA/profile-displaybackgroundimage-shrink_350_1400/B4DZxTLynnJcAc-/0/1770922128633?e=1772668800&v=beta&t=Fdln3ilpPHA6qqhDSltVVA32rr85ViIBIO7PFnTvib4"  />
-</div>
-
 ###
 
 <h1 align="center">Hello Everyone, I'm Yaleh!</h1>
